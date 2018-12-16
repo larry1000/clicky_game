@@ -1,6 +1,10 @@
 import React from "react";
-import PortfolioContainer from "./components/PortfolioContainer";
+import TeamsContainer from "./components/TeamsContainer";
+import Title from "./components/Title";
 
-const App = () => <PortfolioContainer />;
-
+const App = () => (
+  <TeamsContainer>
+    <Title>Clicky Game</Title>
+  </TeamsContainer>
+);
 export default App;

@@ -1,0 +1,63 @@
+[
+  { "id": 1, "name": "Bulls", "clicked": false, "image": "images/bulls.jpeg" },
+  {
+    "id": 2,
+    "name": "Buckeyes",
+    "clicked": false,
+    "image": "images/buckeyes.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Bears",
+    "clicked": false,
+    "image": "images/bears.png"
+  },
+  {
+    "id": 4,
+    "name": "Cavs",
+    "clicked": false,
+    "image": "images/cavs.png"
+  },
+  {
+    "id": 5,
+    "name": "Cowboys",
+    "clicked": false,
+    "image": "images/cowboys.png"
+  },
+  {
+    "id": 6,
+    "name": "Cubs",
+    "clicked": false,
+    "image": "images/cubs.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Heat",
+    "clicked": false,
+    "image": "images/heat.png"
+  },
+  {
+    "id": 8,
+    "name": "Jayhawks",
+    "clicked": false,
+    "image": "images/jayhawks.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Raiders",
+    "clicked": false,
+    "image": "images/raiders.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Sharks",
+    "clicked": false,
+    "image": "images/sharks.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Yankees",
+    "clicked": false,
+    "image": "images/yankees.jpeg"
+  }
+]
