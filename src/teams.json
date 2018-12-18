@@ -1,63 +1,68 @@
 [
-  { "id": 1, "name": "Bulls", "clicked": false, "image": "images/bulls.jpeg" },
+  {
+    "id": 1,
+    "name": "Bulls",
+    "clicked": false,
+    "image": "assets/images/bulls.jpeg"
+  },
   {
     "id": 2,
     "name": "Buckeyes",
     "clicked": false,
-    "image": "images/buckeyes.jpeg"
+    "image": "assets/images/buckeyes.jpeg"
   },
   {
     "id": 3,
     "name": "Bears",
     "clicked": false,
-    "image": "images/bears.png"
+    "image": "assets/images/bears.png"
   },
   {
     "id": 4,
     "name": "Cavs",
     "clicked": false,
-    "image": "images/cavs.png"
+    "image": "assets/images/cavs.png"
   },
   {
     "id": 5,
     "name": "Cowboys",
     "clicked": false,
-    "image": "images/cowboys.png"
+    "image": "assets/images/cowboys.png"
   },
   {
     "id": 6,
     "name": "Cubs",
     "clicked": false,
-    "image": "images/cubs.jpeg"
+    "image": "assets/images/cubs.jpeg"
   },
   {
     "id": 7,
     "name": "Heat",
     "clicked": false,
-    "image": "images/heat.png"
+    "image": "assets/images/heat.png"
   },
   {
     "id": 8,
     "name": "Jayhawks",
     "clicked": false,
-    "image": "images/jayhawks.jpeg"
+    "image": "assets/images/jayhawks.jpeg"
   },
   {
     "id": 9,
     "name": "Raiders",
     "clicked": false,
-    "image": "images/raiders.jpeg"
+    "image": "assets/images/raiders.jpeg"
   },
   {
     "id": 10,
     "name": "Sharks",
     "clicked": false,
-    "image": "images/sharks.jpeg"
+    "image": "assets/images/sharks.jpeg"
   },
   {
     "id": 11,
     "name": "Yankees",
     "clicked": false,
-    "image": "images/yankees.jpeg"
+    "image": "assets/images/yankees.jpeg"
   }
 ]

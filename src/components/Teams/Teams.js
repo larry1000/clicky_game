@@ -12,7 +12,7 @@ class Teams extends Component {
     return (
       <div>
         {data.map(team => (
-          <h1>{team.name}</h1>
+          <img src={`${team.image}`} alt={`${team.name}`} width="200" />
         ))}
       </div>
     );
